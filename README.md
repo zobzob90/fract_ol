@@ -15,7 +15,7 @@ Il permet la visualisation interactive de fractales telles que Mandelbrot, Julia
 - Utiliser la bibliothèque **MiniLibX** (macOS/Linux).
 - Implémenter un système de zoom/dézoom et de déplacement fluide.
 - Ajouter des interactions clavier et souris.
-- Bonus : palettes dynamiques, multithreading, nouvelles formules, etc.
+- Bonus : palettes dynamiques, nouvelles formules, etc.
 
 ---
 
